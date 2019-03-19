@@ -1,5 +1,6 @@
 <?php
 
+  echo('123');
   if(isset($_POST['send'])){
    $link = mysqli_connect("localhost", "root", "K98awakn", "coffee");
 
